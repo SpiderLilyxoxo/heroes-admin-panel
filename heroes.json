@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "6fe79a4b-c121-4573-8515-39ee6b7ba060",
+      "name": "Spider Lily",
+      "description": "Nothing",
+      "element": "water"
+    },
+    {
+      "id": "0d631366-eb5b-4303-b16f-62e0cceaf895",
+      "name": "Earth Elem",
+      "description": "Dirt",
+      "element": "earth"
+    },
+    {
+      "id": "e4317c78-8f81-4678-9951-18617f7b3bfd",
+      "name": "Water Elem",
+      "description": "Water.. lol",
+      "element": "water"
+    },
+    {
+      "id": "233ee2d8-c254-45d4-b71d-3b3ca56ddce0",
+      "name": "Fire Elem",
+      "description": "UwU",
+      "element": "fire"
+    },
+    {
+      "id": "771c94d1-d452-4838-aee1-17e99a8095de",
+      "name": "Fire Elem",
+      "description": "OwO",
+      "element": "fire"
+    },
+    {
+      "id": "06fce0b6-a52f-49fb-a441-ee341c58f029",
+      "name": "Random Guy",
+      "description": "Nothing",
+      "element": "all"
+    },
+    {
+      "id": "5065355f-925f-49e7-b049-4ab39bbdf5cf",
+      "name": "Wind Elem",
+      "description": "Blowwwww !!!!",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ],
+  "filterElements": [
+    "all",
+    "fire",
+    "water",
+    "wind",
+    "earth"
+  ]
+}
